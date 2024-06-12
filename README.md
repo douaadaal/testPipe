@@ -12,7 +12,7 @@
 - [User Interface (UI)](#user-interface-ui)..
 - [Read Project Article](#learn-more-about-this-project)
 - [Demo Link](#demo-link)
-- [API Endpoints](#api-endpoints)
+
 
 
 ## Project Description
