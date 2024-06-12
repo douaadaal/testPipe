@@ -13,7 +13,7 @@
 - [Read Project Article](#learn-more-about-this-project)
 - [Demo Link](#demo-link)
 - [API Endpoints](#api-endpoints)
-- [Setup Guide](#setup-guide)
+
 
 ## Project Description
 
